@@ -116,7 +116,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mhm-othman/)
 [![Trelinx](https://img.shields.io/badge/-Trelinx-6C4CF1?style=for-the-badge&logo=googlechrome&logoColor=white)](https://trelinx.com.sg)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:admin@trelinx.com.sg)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mahmoud@trelinx.com.sg)
 
 <!-- OPTIONAL cool add-ons I can wire up on request:
      • Animated contribution snake (Platane/snk GitHub Action → output branch)
