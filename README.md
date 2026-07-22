@@ -9,11 +9,11 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&center=true&vCenter=true&width=720&lines=AI+Product+Engineer+%26+Technical+Co-Founder;I+turn+founder+ideas+into+shipped+AI+products;Founders'+technical+partner+%7C+fractional+CTO;Voice+AI%2C+LLMs%2C+and+products+that+ship" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&center=true&vCenter=true&width=720&lines=AI+Product+Engineer+%26+Technical+Co-Founder;I+turn+ideas+into+shipped+AI+products;Idea+to+production%2C+AI-native;Voice+AI%2C+LLMs%2C+and+products+that+ship" alt="Typing SVG" />
   </a>
 </p>
 
-<p align="center"><b>I help founders turn ideas into shipped, AI-native products.</b></p>
+<p align="center"><b>Turning ideas into shipped, AI-native products.</b></p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mo-othman&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
@@ -29,7 +29,6 @@
 - 🎙️ Shipped **[Trelinx](https://trelinx.com.sg)**, *Singapore's AI Receptionist*: real-time **voice AI** + WhatsApp answering every call 24/7 in Singlish, English, Mandarin, Malay, Tamil, and 10+ more.
 - 🛡️ Shipped **[DaraVera](https://daravera.com)**: **AI-powered**, tamper-evident credential verification with real cryptographic signing.
 - ☸️ Co-built **[K8Studio](https://k8studio.io)**, a Kubernetes IDE: *"Google Maps for your clusters."*
-- 🤝 **Founders & incubators:** I partner as your **technical co-founder / fractional CTO** and build the product with you.
 - 🗣️ Arabic · English.
 - ⚡ How I ship: *never present a check the system doesn't actually perform.*
 
@@ -93,8 +92,7 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=mo-othman&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" alt="stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mo-othman&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" alt="top langs" />
+  <img src="./github-metrics.svg" alt="GitHub metrics: activity, repositories, and most-used languages" />
 </div>
 
 <div align="center">
@@ -114,19 +112,6 @@
     <img alt="snake eating my contribution graph" src="https://raw.githubusercontent.com/mo-othman/mo-othman/output/github-snake.svg" />
   </picture>
 </div>
-
----
-
-## 🤝 Work with me
-
-I'm a **technical co-founder / fractional CTO** who takes products from **zero to shipped**, AI-native and production-ready. If you're a **founder** with an idea, or an **incubator / accelerator** backing early teams that need a technical partner who can own the architecture and actually build it, let's talk.
-
-- 🚀 Idea → MVP → production, end to end
-- 🤖 AI-native: voice agents, LLM apps, real-time systems
-- 🧱 Architecture and cloud that scale past the demo
-- 🎯 Proven across 8+ domains and multiple shipped startups
-
-<a href="mailto:mahmoud@trelinx.com.sg"><img src="https://img.shields.io/badge/Let's%20build%20something-0e75b6?style=for-the-badge&logo=maildotru&logoColor=white" alt="email me" /></a>
 
 ---
 
