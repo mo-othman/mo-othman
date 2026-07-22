@@ -89,13 +89,11 @@
 
 ---
 
-## 📊 Activity
+## 📊 Contributions
 
 <div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=mo-othman&theme=tokyo-night&hide_border=true&bg_color=0D1117" alt="activity graph" />
+  <img src="./profile-3d-contrib/profile-night-view.svg" width="100%" alt="3D contribution calendar" />
 </div>
-
-## 🐍 Contribution graph
 
 <div align="center">
   <picture>
