@@ -29,7 +29,7 @@
 - 🎙️ Shipped **[Trelinx](https://trelinx.com.sg)**, *Singapore's AI Receptionist*: real-time **voice AI** + WhatsApp answering every call 24/7 in Singlish, English, Mandarin, Malay, Tamil, and 10+ more.
 - 🛡️ Shipped **[DaraVera](https://daravera.com)**: **AI-powered**, tamper-evident credential verification with real cryptographic signing.
 - ☸️ Co-built **[K8Studio](https://k8studio.io)**, a Kubernetes IDE: *"Google Maps for your clusters."*
-- 🗣️ Arabic · English.
+- 🗣️ English · Arabic.
 - ⚡ How I ship: *never present a check the system doesn't actually perform.*
 
 ---
