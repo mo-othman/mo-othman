@@ -89,15 +89,7 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="./github-metrics.svg" alt="GitHub metrics: activity, repositories, and most-used languages" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mo-othman&hide_border=true&theme=tokyonight" alt="streak" />
-</div>
+## 📊 Activity
 
 <div align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=mo-othman&theme=tokyo-night&hide_border=true&bg_color=0D1117" alt="activity graph" />
