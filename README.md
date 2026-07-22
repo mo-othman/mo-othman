@@ -9,14 +9,15 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&center=true&vCenter=true&width=680&lines=Technical+Co-Founder+%26+CTO;I+build+the+thing+and+can't+stop+building+it;Voice+AI+for+how+Singapore+actually+speaks;English+%C2%B7+%E4%B8%AD%E6%96%87+%C2%B7+Singlish" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&center=true&vCenter=true&width=720&lines=AI+Product+Engineer+%26+Technical+Co-Founder;I+turn+founder+ideas+into+shipped+AI+products;Founders'+technical+partner+%7C+fractional+CTO;Voice+AI%2C+LLMs%2C+and+products+that+ship" alt="Typing SVG" />
   </a>
 </p>
+
+<p align="center"><b>I help founders turn ideas into shipped, AI-native products.</b></p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mo-othman&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
   <img src="https://img.shields.io/github/followers/mo-othman?style=social" alt="followers" />
-  <img src="https://img.shields.io/badge/Based%20in-Singapore%20🇸🇬-black?style=flat" alt="singapore" />
   <img src="https://img.shields.io/badge/AWS-Certified%20Developer-FF9900?style=flat&logo=amazon-aws&logoColor=white" alt="aws certified" />
 </p>
 
@@ -24,28 +25,33 @@
 
 ## 🧑‍💻 About
 
-- 🏗️ Technical **co-founder & CTO** — I build the thing end to end: frontend, backend, cloud, infra.
-- 🎙️ Building **[Trelinx](https://trelinx.com.sg)** — *Singapore's AI Receptionist*: voice + WhatsApp that answers every call 24/7, in Singlish, English, Mandarin, Malay, Tamil, and 10+ more.
-- 🛡️ Building **[DaraVera](https://daravera.com)** — tamper-evident credential verification with **real** cryptographic signing, not security theatre.
-- ☸️ Co-built **[K8Studio](https://k8studio.io)** — a Kubernetes IDE, *"Google Maps for your clusters."*
-- 🌏 Arabic (native) · English (professional) · AWS Certified Developer.
-- ⚡ Principle I ship by: *never present a check the system doesn't actually perform.*
+- 🤖 **AI product engineer & technical co-founder.** I turn ideas into shipped, AI-native products, from zero to production.
+- 🎙️ Shipped **[Trelinx](https://trelinx.com.sg)**, *Singapore's AI Receptionist*: real-time **voice AI** + WhatsApp answering every call 24/7 in Singlish, English, Mandarin, Malay, Tamil, and 10+ more.
+- 🛡️ Shipped **[DaraVera](https://daravera.com)**: **AI-powered**, tamper-evident credential verification with real cryptographic signing.
+- ☸️ Co-built **[K8Studio](https://k8studio.io)**, a Kubernetes IDE: *"Google Maps for your clusters."*
+- 🤝 **Founders & incubators:** I partner as your **technical co-founder / fractional CTO** and build the product with you.
+- 🗣️ Arabic · English.
+- ⚡ How I ship: *never present a check the system doesn't actually perform.*
 
 ---
 
-## 🚀 Building now
+## 🚧 Building now
+
+> 🩺 **Velmare** · a stealth-stage startup in **healthcare**. Heads-down building, more soon.
+
+## 🚀 Shipped products
 
 | Project | What it is | Stack | Live |
 | :--- | :--- | :--- | :---: |
-| 🎙️ **Trelinx** · *Co-Founder & CTO* | Singapore's **AI Receptionist** for multi-outlet SMEs — voice + WhatsApp, 24/7, Singlish-native + 15 languages, human handoff, PDPA-compliant. | `TypeScript` `React` `Node` `AWS` `Voice AI / telephony` | **[trelinx.com.sg](https://trelinx.com.sg)** |
-| 🛡️ **DaraVera** | Tamper-evident **credential verification SaaS** — issue, cryptographically seal, and verify against a signed registry. | `React` `TS` `Vite` `Tailwind` `Serverless` `PostgreSQL` `AWS KMS` | **[daravera.com](https://daravera.com)** |
+| 🎙️ **Trelinx** · *Co-Founder & CTO* | Singapore's **AI Receptionist** for multi-outlet SMEs: voice + WhatsApp, 24/7, Singlish-native + 15 languages, human handoff, PDPA-compliant. | `TypeScript` `React` `Node` `AWS` `Voice AI` `LLMs` | **[trelinx.com.sg](https://trelinx.com.sg)** |
+| 🛡️ **DaraVera** | **AI-powered**, tamper-evident **credential verification**: issue, cryptographically seal, and verify against a signed registry. | `React` `TS` `Serverless` `PostgreSQL` `AWS Bedrock` `AWS KMS` | **[daravera.com](https://daravera.com)** |
+| 🐄 **KSAB** · *client* | Moroccan **livestock marketplace** connecting buyers with farmers nationwide. | `React` `Node` `PostgreSQL` | **[ksab.ma](https://ksab.ma)** |
 
-## 🧩 Co-built & shipped
+## 🧩 Co-built
 
 | Project | What it is | Stack | Live |
 | :--- | :--- | :--- | :---: |
-| ☸️ **K8Studio** · *co-built @ CloudOps* | The **Kubernetes IDE** — agent-free desktop GUI with CloudMaps™ topology, multi-cluster tabs, RBAC/Helm, and high-perf real-time log grids. | `React` `Electron` `TypeScript` `Kubernetes` | **[k8studio.io](https://k8studio.io)** |
-| 🐄 **KSAB** · *client* | Moroccan **livestock marketplace** — connects buyers with farmers across the country. | `React` `Node` `PostgreSQL` | **[ksab.ma](https://ksab.ma)** |
+| ☸️ **K8Studio** · *co-built @ CloudOps* | The **Kubernetes IDE**: agent-free desktop GUI with CloudMaps™ topology, multi-cluster tabs, RBAC/Helm, and high-performance real-time log grids. | `React` `Electron` `TypeScript` `Kubernetes` | **[k8studio.io](https://k8studio.io)** |
 
 <sub>Earlier work across CloudOps / UoLU and other startups: **Metros** (construction-estimation SaaS), **RIO** coach app + LMS (RBAC, analytics, contract automation), the **Lobus Art Data Platform** (large-scale art-market data + analyst UI), and **emergency-response systems**.</sub>
 
@@ -108,6 +114,19 @@
     <img alt="snake eating my contribution graph" src="https://raw.githubusercontent.com/mo-othman/mo-othman/output/github-snake.svg" />
   </picture>
 </div>
+
+---
+
+## 🤝 Work with me
+
+I'm a **technical co-founder / fractional CTO** who takes products from **zero to shipped**, AI-native and production-ready. If you're a **founder** with an idea, or an **incubator / accelerator** backing early teams that need a technical partner who can own the architecture and actually build it, let's talk.
+
+- 🚀 Idea → MVP → production, end to end
+- 🤖 AI-native: voice agents, LLM apps, real-time systems
+- 🧱 Architecture and cloud that scale past the demo
+- 🎯 Proven across 8+ domains and multiple shipped startups
+
+<a href="mailto:mahmoud@trelinx.com.sg"><img src="https://img.shields.io/badge/Let's%20build%20something-0e75b6?style=for-the-badge&logo=maildotru&logoColor=white" alt="email me" /></a>
 
 ---
 
