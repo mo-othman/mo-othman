@@ -100,6 +100,16 @@
   <img src="https://github-profile-trophy.vercel.app/?username=mo-othman&theme=tokyonight&no-frame=true&column=7&margin-w=8" alt="trophies" />
 </div>
 
+## 🐍 Contribution graph
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mo-othman/mo-othman/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mo-othman/mo-othman/output/github-snake.svg" />
+    <img alt="snake eating my contribution graph" src="https://raw.githubusercontent.com/mo-othman/mo-othman/output/github-snake.svg" />
+  </picture>
+</div>
+
 ---
 
 ## 🌐 Connect
