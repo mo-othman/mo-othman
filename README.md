@@ -5,15 +5,15 @@
   and confirm the LinkedIn slug. Everything else is real, pulled from your profile + product sites.
 -->
 
-<h1 align="center">Hi, I'm Mahmoud Othman 👋</h1>
+<h1 align="center">Mahmoud Othman</h1>
+
+<p align="center"><b>AI Product Engineer · Technical Co-Founder</b></p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&center=true&vCenter=true&width=720&lines=AI+Product+Engineer+%26+Technical+Co-Founder;I+turn+ideas+into+shipped+AI+products;Idea+to+production%2C+AI-native;Voice+AI%2C+LLMs%2C+and+products+that+ship" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&center=true&vCenter=true&width=720&lines=Shipping+high-performance%2C+scalable+AI+products;Voice+AI+%C2%B7+LLMs+%C2%B7+real-time+systems;Idea+to+production%2C+built+to+scale;Turning+ideas+into+shipped+products" alt="Typing SVG" />
   </a>
 </p>
-
-<p align="center"><b>Turning ideas into shipped, AI-native products.</b></p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mo-othman&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
@@ -25,7 +25,7 @@
 
 ## 🧑‍💻 About
 
-- 🤖 **AI product engineer & technical co-founder.** I turn ideas into shipped, AI-native products, from zero to production.
+- 🤖 **AI product engineer & technical co-founder.** I ship high-performance, scalable, AI-native products, from idea to production.
 - 🎙️ Shipped **[Trelinx](https://trelinx.com.sg)**, *Singapore's AI Receptionist*: real-time **voice AI** + WhatsApp answering every call 24/7 in Singlish, English, Mandarin, Malay, Tamil, and 10+ more.
 - 🛡️ Shipped **[DaraVera](https://daravera.com)**: **AI-powered**, tamper-evident credential verification with real cryptographic signing.
 - ☸️ Co-built **[K8Studio](https://k8studio.io)**, a Kubernetes IDE: *"Google Maps for your clusters."*
@@ -52,7 +52,7 @@
 | :--- | :--- | :--- | :---: |
 | ☸️ **K8Studio** · *co-built @ CloudOps* | The **Kubernetes IDE**: agent-free desktop GUI with CloudMaps™ topology, multi-cluster tabs, RBAC/Helm, and high-performance real-time log grids. | `React` `Electron` `TypeScript` `Kubernetes` | **[k8studio.io](https://k8studio.io)** |
 
-<sub>Earlier work across CloudOps / UoLU and other startups: **Metros** (construction-estimation SaaS), **RIO** coach app + LMS (RBAC, analytics, contract automation), the **Lobus Art Data Platform** (large-scale art-market data + analyst UI), and **emergency-response systems**.</sub>
+<sub>Earlier work across CloudOps / UoLU and other startups: **[Metres](https://metres.ai)** (construction-estimation SaaS I helped launch), **RIO** coach app + LMS (RBAC, analytics, contract automation), the **Lobus Art Data Platform** (large-scale art-market data + analyst UI), and **emergency-response systems**.</sub>
 
 ## 🌍 Domains I've shipped in
 
