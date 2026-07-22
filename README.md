@@ -91,6 +91,8 @@
 
 ## 📊 Contributions
 
+<p align="center"><sub>Most of my career code lives in private <b>Bitbucket</b> repos across the companies I've built at, so this graph shows only a slice of what I've actually shipped.</sub></p>
+
 <div align="center">
   <img src="./profile-3d-contrib/profile-night-view.svg" width="100%" alt="3D contribution calendar" />
 </div>
