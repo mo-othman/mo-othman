@@ -44,15 +44,16 @@
 | :--- | :--- | :--- | :---: |
 | 🎙️ **Trelinx** · *Co-Founder & CTO* | Singapore's **AI Receptionist** for multi-outlet SMEs: voice + WhatsApp, 24/7, Singlish-native + 15 languages, human handoff, PDPA-compliant. | `TypeScript` `React` `Node` `AWS` `Voice AI` `LLMs` | **[trelinx.com.sg](https://trelinx.com.sg)** |
 | 🛡️ **DaraVera** | **AI-powered**, tamper-evident **credential verification**: issue, cryptographically seal, and verify against a signed registry. | `React` `TS` `Serverless` `PostgreSQL` `AWS Bedrock` `AWS KMS` | **[daravera.com](https://daravera.com)** |
-| 🐄 **KSAB** · *client* | Moroccan **livestock marketplace** connecting buyers with farmers nationwide. | `React` `Node` `PostgreSQL` | **[ksab.ma](https://ksab.ma)** |
+| 🐄 **KSAB** · *client* | Moroccan **livestock marketplace** connecting buyers with farmers nationwide. | `Next.js` `React` `Supabase` | **[ksab.ma](https://ksab.ma)** |
 
-## 🧩 Co-built
+## 🧩 Co-built & contributed
 
 | Project | What it is | Stack | Live |
 | :--- | :--- | :--- | :---: |
 | ☸️ **K8Studio** · *co-built @ CloudOps* | The **Kubernetes IDE**: agent-free desktop GUI with CloudMaps™ topology, multi-cluster tabs, RBAC/Helm, and high-performance real-time log grids. | `React` `Electron` `TypeScript` `Kubernetes` | **[k8studio.io](https://k8studio.io)** |
+| 🏗️ **Metres** · *@ CloudOps* | **Construction-estimation SaaS**: measure areas, lengths, and volumes on digital blueprints to generate instant quotes. Built frontend systems and helped ship it. | `React` `Node` | **[metres.ai](https://metres.ai)** |
 
-<sub>Earlier work across CloudOps / UoLU and other startups: **[Metres](https://metres.ai)** (construction-estimation SaaS I helped launch), **RIO** coach app + LMS (RBAC, analytics, contract automation), the **Lobus Art Data Platform** (large-scale art-market data + analyst UI), and **emergency-response systems**.</sub>
+<sub>Also shipped across CloudOps / UoLU and other startups: **RIO** coach app + LMS (RBAC, analytics, contract automation), the **Lobus Art Data Platform** (large-scale art-market data + analyst UI), and **emergency-response systems**.</sub>
 
 ## 🌍 Domains I've shipped in
 
