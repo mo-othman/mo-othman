@@ -11,13 +11,13 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&center=true&vCenter=true&width=720&lines=Shipping+high-performance%2C+scalable+AI+products;Voice+AI+%C2%B7+LLMs+%C2%B7+real-time+systems;Idea+to+production%2C+built+to+scale;Turning+ideas+into+shipped+products" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&center=true&vCenter=true&width=720&color=58A6FF&lines=Shipping+high-performance%2C+scalable+AI+products;Voice+AI+%C2%B7+LLMs+%C2%B7+real-time+systems;Idea+to+production%2C+built+to+scale;Turning+ideas+into+shipped+products" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mo-othman&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/mo-othman?style=social" alt="followers" />
+  <img src="https://img.shields.io/github/followers/mo-othman?style=flat&logo=github&label=Followers&color=0e75b6" alt="followers" />
   <img src="https://img.shields.io/badge/AWS-Certified%20Developer-FF9900?style=flat&logo=amazon-aws&logoColor=white" alt="aws certified" />
 </p>
 
