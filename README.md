@@ -1,5 +1,5 @@
 <!--
-  GitHub PROFILE README — Mahmoud Othman
+  GitHub PROFILE README for Mahmoud Othman
   To use: create a repo named EXACTLY your GitHub username (github.com/mo-othman/mo-othman),
   add this file as README.md, commit. Replace mo-othman everywhere (needed for the stat cards)
   and confirm the LinkedIn slug. Everything else is real, pulled from your profile + product sites.
@@ -59,11 +59,11 @@
 
 `Voice AI` · `Credential security` · `Kubernetes tooling` · `Construction` · `Art-market data` · `Emergency systems` · `LMS / EdTech` · `Agri-marketplace` · `PropTech`
 
-<sub>Nine years, many startups, one constant: I go deep in whatever domain the problem lives in — I don't treat it as a generic textbook problem.</sub>
+<sub>Nine years, many startups, one constant: I go deep in whatever domain the problem lives in, never as a generic textbook problem.</sub>
 
 ## 🧪 Lab
 
-> A pile of prototypes that never went public — voice agents, dev tooling, AI experiments. I build constantly; only some of it ships. Ask me about the rest.
+> A pile of prototypes that never went public: voice agents, dev tooling, AI experiments. I build constantly; only some of it ships. Ask me about the rest.
 
 ---
 
@@ -132,7 +132,7 @@ I'm a **technical co-founder / fractional CTO** who takes products from **zero t
 
 ## 🌐 Connect
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mhm-othman/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mm-othman/)
 [![Trelinx](https://img.shields.io/badge/-Trelinx-6C4CF1?style=for-the-badge&logo=googlechrome&logoColor=white)](https://trelinx.com.sg)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mahmoud@trelinx.com.sg)
 
