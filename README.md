@@ -36,7 +36,7 @@
 
 ## 🚧 Building now
 
-> 🩺 **Velmare** · a stealth-stage startup in **healthcare**. Heads-down building, more soon.
+> 🩺 **Velmire** · a stealth-stage startup in **healthcare**. Heads-down building, more soon.
 
 ## 🚀 Shipped products
 
